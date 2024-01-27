@@ -1,0 +1,18 @@
+<?php
+
+$wamp_versions_here = array (
+  'wamp_update' => '3.3.0',
+  'wamp_aestan' => '3.2.4.9',
+  'wamp_adminer' => '4.8.1',
+  'wamp_phpsysinfo' => '3.4.2',
+  'mysql80' => '8.0.31',
+  'mariadb1010' => '10.10.2',
+  'wamp_phpmyadmin' => '5.2.0',
+  'php74' => '7.4.33',
+  'php80' => '8.0.26',
+  'php81' => '8.1.13',
+  'php82' => '8.2.0',
+  'apache24' => '2.4.54.2',
+);
+
+?>

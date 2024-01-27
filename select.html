@@ -1,0 +1,186 @@
+<html>
+<head>
+<style type="text/css">
+form {
+  display: inline-block;
+}
+
+select {
+  display: inline-block;
+  margin-bottom: 10px;
+}
+label {
+  display: inline-block;
+  font-weight: bold;
+  margin-right: 10px;
+}
+select[disabled] {
+  opacity: 0.5;
+}
+select[disabled] + label {
+  opacity: 0.5;
+}
+</style>
+
+</head>
+<body>
+<form>
+  <label for="country">Country:</label>
+  <select id="country" name="country">
+    <option value="">--Please select a country--</option>
+    <option value="Eth">Ethiopia</option>
+  </select>
+
+  <label for="region">Region:</label>
+  <select id="region" name="region" disabled>
+    <option value="">--Please select a region--</option>
+
+  </select>
+
+  <label for="city">City:</label>
+  <select id="city" name="city" disabled>
+    <option value="">--Please select a city--</option>
+
+  </select>
+</form>
+
+<button id="add-country-button">Add Country</button>
+
+<div id="add-country-form" style="display:none;">
+  <h3>Add New Country</h3>
+  <form>
+    <label for="new-country">Country Name:</label>
+    <input type="text" id="new-country" name="new-country">
+    <br>
+    <label for="new-region">Region Name:</label>
+    <input type="text" id="new-region" name="new-region">
+    <br>
+    <label for="new-city">City Name:</label>
+    <input type="text" id="new-city" name="new-city">
+    <br>
+    <button type="submit">Submit</button>
+  </form>
+</div>
+
+<script>
+const regionsByCountry = {
+  Eth: [
+    { value: 'oro', label: 'Oromia' },
+    { value: 'tx', label: 'Texas' },
+    { value: 'ny', label: 'New York' }
+  ]
+};
+
+const citiesByRegion = {
+  oro: [
+    { value: 'br', label: 'Finfine' },
+    { value: 'la', label: 'Burayu' },
+    { value: 'sd', label: 'Bishoftu' }
+  ],
+  tx: [
+    { value: 'houston', label: 'Houston' },
+    { value: 'austin', label: 'Austin' },
+    { value: 'dallas', label: 'Dallas' }
+  ],
+  ny: [
+    { value: 'nyc', label: 'New York City' },
+    { value: 'buffalo', label: 'Buffalo' },
+    { value: 'rochester', label: 'Rochester' }
+  ]
+};
+
+const countrySelect = document.getElementById('country');
+const regionSelect = document.getElementById('region');
+const citySelect = document.getElementById('city');
+
+const addCountryButton = document.getElementById('add-country-button');
+addCountryButton.addEventListener('click', addCountry);
+
+// Function to add a new country with its regions and cities
+function addCountry() {
+  const newCountryValue = prompt('Enter the name of the new country:');
+  const  newregionValue = prompt('Enter the name of the new region:');
+  const newCityValue = prompt('Enter the name of the new city:');
+  if (newCountryValue) {
+    regionsByCountry[newCountryValue] = [];
+    const newCountryOption = document.createElement('option');
+    newCountryOption.value = newCountryValue;
+    newCountryOption.text = newCountryValue;
+    countrySelect.add(newCountryOption);
+    countrySelect.value = newCountryValue;
+    countrySelect.dispatchEvent(new Event('change'));
+  }
+   if (newregionValue) {
+    regionsByCountry[newregionValue] = [];
+    const newregionOption = document.createElement('option');
+    newregionOption.value = newregionValue;
+    newregionOption.text = newregionValue;
+    regionSelect.add(newregionOption);
+    regionSelect.value = newregionValue;
+    regionSelect.dispatchEvent(new Event('change'));
+  }
+   if (newCityValue) {
+    regionsByCountry[newCityValue] = [];
+    const newCityOption = document.createElement('option');
+    newCityOption.value = newCityValue;
+    newCityOption.text = newCityValue;
+    citySelect.add(newCityOption);
+    citySelect.value = newCityValue;
+    citySelect.dispatchEvent(new Event('change'));
+  }
+}
+
+countrySelect.addEventListener("change", function() {
+  const selectedCountry = countrySelect.value;
+
+  if (selectedCountry) {
+    regionSelect.disabled = false;
+    regionSelect.innerHTML = '<option value="">--Please select a region--</option>';
+    regionsByCountry[selectedCountry].forEach((region) => {
+      const option = document.createElement('option');
+      option.value = region.value;
+      option.text = region.label;
+      regionSelect.add(option);
+    });
+  } else {
+    regionSelect.disabled = true;
+    citySelect.disabled = true;
+    regionSelect.innerHTML = '<option value="">--Please select a region--</option>';
+    citySelect.innerHTML = '<option value="">--Please select a city--</option>';
+  }
+});
+
+regionSelect.addEventListener("change", function() {
+  const selectedRegion = regionSelect.value;
+
+  if (selectedRegion) {
+    citySelect.disabled = false;
+    citySelect.innerHTML = '<option value="">--Please select a city--</option>';
+    citiesByRegion[selectedRegion].forEach((city) => {
+      const option = document.createElement('option');
+      option.value = city.value;
+      option.text = city.label;
+      citySelect.add(option);
+    });
+  } else {
+    citySelect.disabled = true;
+    citySelect.innerHTML = '<option value="">--Please select a city--</option>';
+  }
+});
+
+
+
+</script>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+

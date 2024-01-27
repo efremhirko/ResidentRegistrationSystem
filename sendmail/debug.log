@@ -1,0 +1,521 @@
+23/02/08 17:17:20 ** --- MESSAGE BEGIN ---
+23/02/08 17:17:20 ** To: hirkoefrem@gmail.com
+23/02/08 17:17:20 ** Subject: Password Reset Code
+23/02/08 17:17:20 ** From: oromobiblestudy@yahoo.com
+23/02/08 17:17:20 ** 
+23/02/08 17:17:20 ** Your password reset code is 167280
+23/02/08 17:17:20 ** --- MESSAGE END ---
+23/02/08 17:17:20 ** Connecting to smtp.mail.yahoo.com:587
+23/02/08 17:17:21 ** Connected.
+23/02/08 17:17:21 << 220 smtp.mail.yahoo.com ESMTP ready<EOL>
+23/02/08 17:17:21 >> EHLO localhost<EOL>
+23/02/08 17:17:21 << 250-hermes--production-ir2-65c64dfd66-q2fgd Hello localhost [196.189.162.29])<EOL>250-PIPELINING<EOL>250-ENHANCEDSTATUSCODES<EOL>250-8BITMIME<EOL>250-SIZE 41697280<EOL>250 STARTTLS<EOL>
+23/02/08 17:17:21 ** Authenticating as oromobiblestudy@yahoo.com
+23/02/08 17:17:21 >> STARTTLS<EOL>
+23/02/08 17:17:21 << 220 2.0.0 Ready to start TLS<EOL>
+23/02/08 17:17:22 >> EHLO localhost<EOL>
+23/02/08 17:17:22 << 250-hermes--production-ir2-65c64dfd66-q2fgd Hello localhost [196.189.162.29])<EOL>250-PIPELINING<EOL>250-ENHANCEDSTATUSCODES<EOL>250-8BITMIME<EOL>250-SIZE 41697280<EOL>250 AUTH PLAIN LOGIN XOAUTH2 OAUTHBEARER<EOL>
+23/02/08 17:17:22 >> AUTH LOGIN<EOL>
+23/02/08 17:17:23 << 3
+23/02/08 17:17:23 << 34 VXNlcm5hbWU6<EOL>
+23/02/08 17:17:23 >> b3JvbW9iaWJsZXN0dWR5QHlhaG9vLmNvbQ==<EOL>
+23/02/08 17:17:23 << 3
+23/02/08 17:17:23 << 34 UGFzc3dvcmQ6<EOL>
+23/02/08 17:17:23 >> eXlobWJ0ZnBocWh2cmFzYw==<EOL>
+23/02/08 17:17:25 << 2
+23/02/08 17:17:25 << 35 2.7.0 Authentication successful<EOL>
+23/02/08 17:17:25 >> MAIL FROM: <oromobiblestudy@yahoo.com><EOL>
+23/02/08 17:17:25 << 2
+23/02/08 17:17:25 << 50 2.1.0 Sender <oromobiblestudy@yahoo.com> OK<EOL>
+23/02/08 17:17:25 >> RCPT TO: <hirkoefrem@gmail.com><EOL>
+23/02/08 17:17:25 << 2
+23/02/08 17:17:25 << 50 2.1.5 Recipient <hirkoefrem@gmail.com> OK<EOL>
+23/02/08 17:17:25 >> DATA<EOL>
+23/02/08 17:17:25 << 3
+23/02/08 17:17:25 << 54 Ok Send data ending with <CRLF>.<CRLF><EOL>
+23/02/08 17:17:25 >> Date: Wed, 8 Feb 2023 17:17:25 +0300<EOL>
+23/02/08 17:17:25 >> To: hirkoefrem@gmail.com<EOL>
+23/02/08 17:17:25 >> Subject: Password Reset Code<EOL>
+23/02/08 17:17:25 >> From: oromobiblestudy@yahoo.com<EOL>
+23/02/08 17:17:25 >> <EOL>
+23/02/08 17:17:25 >> Your password reset code is 167280<EOL>
+23/02/08 17:17:25 >> .<EOL>
+23/02/08 17:17:28 << 2
+23/02/08 17:17:28 << 50 OK , completed<EOL>
+23/02/08 17:17:28 >> QUIT<EOL>
+23/02/08 17:17:29 << 2
+23/02/08 17:17:29 << 21 Service Closing transmission<EOL>
+23/02/08 17:17:29 ** Disconnected.
+23/02/08 17:17:29 ** Disconnected.
+23/02/08 17:17:29 ** Disconnected.
+23/02/08 17:20:16 ** --- MESSAGE BEGIN ---
+23/02/08 17:20:16 ** To: jigsabersisa@gmail.com
+23/02/08 17:20:16 ** Subject: Password Reset Code
+23/02/08 17:20:16 ** From: oromobiblestudy@yahoo.com
+23/02/08 17:20:16 ** 
+23/02/08 17:20:16 ** Your password reset code is 535898
+23/02/08 17:20:16 ** --- MESSAGE END ---
+23/02/08 17:20:16 ** Connecting to smtp.mail.yahoo.com:587
+23/02/08 17:20:22 ** Connected.
+23/02/08 17:20:25 << 220 smtp.mail.yahoo.com ESMTP ready<EOL>
+23/02/08 17:20:25 >> EHLO localhost<EOL>
+23/02/08 17:20:27 << 250-hermes--production-gq1-655ddccc9-nql2v Hello localhost [196.189.162.29])<EOL>250-PIPELINING<EOL>250-ENHANCEDSTATUSCODES<EOL>250-8BITMIME<EOL>250-SIZE 41697280<EOL>250 STARTTLS<EOL>
+23/02/08 17:20:27 ** Authenticating as oromobiblestudy@yahoo.com
+23/02/08 17:20:27 >> STARTTLS<EOL>
+23/02/08 17:20:30 << 220 2.0.0 Ready to start TLS<EOL>
+23/02/08 17:20:38 >> EHLO localhost<EOL>
+23/02/08 17:20:40 << 250-hermes--production-gq1-655ddccc9-nql2v Hello localhost [196.189.162.29])<EOL>250-PIPELINING<EOL>250-ENHANCEDSTATUSCODES<EOL>250-8BITMIME<EOL>250-SIZE 41697280<EOL>250 AUTH PLAIN LOGIN XOAUTH2 OAUTHBEARER<EOL>
+23/02/08 17:20:40 >> AUTH LOGIN<EOL>
+23/02/08 17:20:46 << 3
+23/02/08 17:20:46 << 34 VXNlcm5hbWU6<EOL>
+23/02/08 17:20:46 >> b3JvbW9iaWJsZXN0dWR5QHlhaG9vLmNvbQ==<EOL>
+23/02/08 17:20:51 << 3
+23/02/08 17:20:51 << 34 UGFzc3dvcmQ6<EOL>
+23/02/08 17:20:51 >> eXlobWJ0ZnBocWh2cmFzYw==<EOL>
+23/02/08 17:21:05 << 2
+23/02/08 17:21:05 << 35 2.7.0 Authentication successful<EOL>
+23/02/08 17:21:05 >> MAIL FROM: <oromobiblestudy@yahoo.com><EOL>
+23/02/08 17:21:17 << 2
+23/02/08 17:21:17 << 50 2.1.0 Sender <oromobiblestudy@yahoo.com> OK<EOL>
+23/02/08 17:21:17 >> RCPT TO: <jigsabersisa@gmail.com><EOL>
+23/02/08 17:21:25 << 2
+23/02/08 17:21:25 << 50 2.1.5 Recipient <jigsabersisa@gmail.com> OK<EOL>
+23/02/08 17:21:25 >> DATA<EOL>
+23/02/08 17:21:26 << 3
+23/02/08 17:21:26 << 54 Ok Send data ending with <CRLF>.<CRLF><EOL>
+23/02/08 17:21:26 >> Date: Wed, 8 Feb 2023 17:21:26 +0300<EOL>
+23/02/08 17:21:26 >> To: jigsabersisa@gmail.com<EOL>
+23/02/08 17:21:26 >> Subject: Password Reset Code<EOL>
+23/02/08 17:21:26 >> From: oromobiblestudy@yahoo.com<EOL>
+23/02/08 17:21:26 >> <EOL>
+23/02/08 17:21:26 >> Your password reset code is 535898<EOL>
+23/02/08 17:21:26 >> .<EOL>
+23/02/08 17:21:35 << 2
+23/02/08 17:21:35 << 50 OK , completed<EOL>
+23/02/08 17:21:35 >> QUIT<EOL>
+23/02/08 17:21:41 << 2
+23/02/08 17:21:41 << 21 Service Closing transmission<EOL>
+23/02/08 17:21:41 ** Disconnected.
+23/02/08 17:21:41 ** Disconnected.
+23/02/08 17:21:41 ** Disconnected.
+23/02/08 17:24:20 ** --- MESSAGE BEGIN ---
+23/02/08 17:24:20 ** To: jigsabersisa@gmail.com
+23/02/08 17:24:20 ** Subject: Password Reset Code
+23/02/08 17:24:20 ** From: oromobiblestudy@yahoo.com
+23/02/08 17:24:20 ** 
+23/02/08 17:24:20 ** Your password reset code is 524913
+23/02/08 17:24:20 ** --- MESSAGE END ---
+23/02/08 17:24:21 ** Connecting to smtp.mail.yahoo.com:587
+23/02/08 17:24:36 ** Disconnected.
+23/02/08 17:24:36 ** Disconnected.
+23/02/08 17:24:36 ** Disconnected.
+23/02/08 17:24:36 ** Disconnected.
+23/02/08 17:24:36 ** Connect timed out.
+23/02/08 17:27:25 ** --- MESSAGE BEGIN ---
+23/02/08 17:27:25 ** To: jigsabersisa@gmail.com
+23/02/08 17:27:25 ** Subject: Password Reset Code
+23/02/08 17:27:25 ** From: oromobiblestudy@yahoo.com
+23/02/08 17:27:25 ** 
+23/02/08 17:27:25 ** Your password reset code is 686094
+23/02/08 17:27:25 ** --- MESSAGE END ---
+23/02/08 17:27:25 ** Connecting to smtp.mail.yahoo.com:587
+23/02/08 17:27:25 ** Disconnected.
+23/02/08 17:27:25 ** Disconnected.
+23/02/08 17:27:25 ** Disconnected.
+23/02/08 17:27:25 ** Socket Error # 11001<EOL>Host not found.
+23/02/08 17:27:47 ** --- MESSAGE BEGIN ---
+23/02/08 17:27:47 ** To: jigsabersisa@gmail.com
+23/02/08 17:27:47 ** Subject: Password Reset Code
+23/02/08 17:27:47 ** From: oromobiblestudy@yahoo.com
+23/02/08 17:27:47 ** 
+23/02/08 17:27:47 ** Your password reset code is 339940
+23/02/08 17:27:47 ** --- MESSAGE END ---
+23/02/08 17:27:47 ** Connecting to smtp.mail.yahoo.com:587
+23/02/08 17:27:47 ** Disconnected.
+23/02/08 17:27:47 ** Disconnected.
+23/02/08 17:27:47 ** Disconnected.
+23/02/08 17:27:47 ** Socket Error # 11001<EOL>Host not found.
+23/02/08 17:28:40 ** --- MESSAGE BEGIN ---
+23/02/08 17:28:40 ** To: jigsabersisa@gmail.com
+23/02/08 17:28:40 ** Subject: Password Reset Code
+23/02/08 17:28:40 ** From: oromobiblestudy@yahoo.com
+23/02/08 17:28:40 ** 
+23/02/08 17:28:40 ** Your password reset code is 617175
+23/02/08 17:28:40 ** --- MESSAGE END ---
+23/02/08 17:28:40 ** Connecting to smtp.mail.yahoo.com:587
+23/02/08 17:28:40 ** Disconnected.
+23/02/08 17:28:40 ** Disconnected.
+23/02/08 17:28:40 ** Disconnected.
+23/02/08 17:28:40 ** Socket Error # 11001<EOL>Host not found.
+23/02/08 17:28:54 ** --- MESSAGE BEGIN ---
+23/02/08 17:28:54 ** To: jigsabersisa@gmail.com
+23/02/08 17:28:54 ** Subject: Password Reset Code
+23/02/08 17:28:54 ** From: oromobiblestudy@yahoo.com
+23/02/08 17:28:54 ** 
+23/02/08 17:28:54 ** Your password reset code is 302051
+23/02/08 17:28:54 ** --- MESSAGE END ---
+23/02/08 17:28:54 ** Connecting to smtp.mail.yahoo.com:587
+23/02/08 17:28:54 ** Disconnected.
+23/02/08 17:28:54 ** Disconnected.
+23/02/08 17:28:54 ** Disconnected.
+23/02/08 17:28:54 ** Socket Error # 11001<EOL>Host not found.
+23/02/08 17:29:30 ** --- MESSAGE BEGIN ---
+23/02/08 17:29:30 ** To: jigsabersisa@gmail.com
+23/02/08 17:29:30 ** Subject: Password Reset Code
+23/02/08 17:29:30 ** From: oromobiblestudy@yahoo.com
+23/02/08 17:29:30 ** 
+23/02/08 17:29:30 ** Your password reset code is 581162
+23/02/08 17:29:30 ** --- MESSAGE END ---
+23/02/08 17:29:30 ** Connecting to smtp.mail.yahoo.com:587
+23/02/08 17:29:42 ** Disconnected.
+23/02/08 17:29:42 ** Disconnected.
+23/02/08 17:29:42 ** Disconnected.
+23/02/08 17:29:42 ** Socket Error # 11001<EOL>Host not found.
+23/02/08 17:29:48 ** --- MESSAGE BEGIN ---
+23/02/08 17:29:48 ** To: jigsabersisa@gmail.com
+23/02/08 17:29:48 ** Subject: Password Reset Code
+23/02/08 17:29:48 ** From: oromobiblestudy@yahoo.com
+23/02/08 17:29:48 ** 
+23/02/08 17:29:48 ** Your password reset code is 699312
+23/02/08 17:29:48 ** --- MESSAGE END ---
+23/02/08 17:29:49 ** Connecting to smtp.mail.yahoo.com:587
+23/02/08 17:29:59 ** Disconnected.
+23/02/08 17:29:59 ** Disconnected.
+23/02/08 17:29:59 ** Disconnected.
+23/02/08 17:29:59 ** Disconnected.
+23/02/08 17:29:59 ** Connect timed out.
+23/02/08 17:32:00 ** --- MESSAGE BEGIN ---
+23/02/08 17:32:00 ** To: jigsabersisa@gmail.com
+23/02/08 17:32:00 ** Subject: Password Reset Code
+23/02/08 17:32:00 ** From: oromobiblestudy@yahoo.com
+23/02/08 17:32:00 ** 
+23/02/08 17:32:00 ** Your password reset code is 450476
+23/02/08 17:32:00 ** --- MESSAGE END ---
+23/02/08 17:32:00 ** Connecting to smtp.mail.yahoo.com:587
+23/02/08 17:32:11 ** Disconnected.
+23/02/08 17:32:11 ** Disconnected.
+23/02/08 17:32:11 ** Disconnected.
+23/02/08 17:32:11 ** Disconnected.
+23/02/08 17:32:11 ** Connect timed out.
+23/02/08 17:32:46 ** --- MESSAGE BEGIN ---
+23/02/08 17:32:46 ** To: jigsabersisa@gmail.com
+23/02/08 17:32:46 ** Subject: Password Reset Code
+23/02/08 17:32:46 ** From: oromobiblestudy@yahoo.com
+23/02/08 17:32:46 ** 
+23/02/08 17:32:46 ** Your password reset code is 792442
+23/02/08 17:32:46 ** --- MESSAGE END ---
+23/02/08 17:32:46 ** Connecting to smtp.mail.yahoo.com:587
+23/02/08 17:32:46 ** Connected.
+23/02/08 17:32:46 << 220 smtp.mail.yahoo.com ESMTP ready<EOL>
+23/02/08 17:32:46 >> EHLO localhost<EOL>
+23/02/08 17:32:46 << 250-hermes--production-ir2-65c64dfd66-qc44z Hello localhost [196.189.162.29])<EOL>250-PIPELINING<EOL>250-ENHANCEDSTATUSCODES<EOL>250-8BITMIME<EOL>250-SIZE 41697280<EOL>250 STARTTLS<EOL>
+23/02/08 17:32:46 ** Authenticating as oromobiblestudy@yahoo.com
+23/02/08 17:32:46 >> STARTTLS<EOL>
+23/02/08 17:32:47 << 220 2.0.0 Ready to start TLS<EOL>
+23/02/08 17:32:48 >> EHLO localhost<EOL>
+23/02/08 17:32:48 << 250-hermes--production-ir2-65c64dfd66-qc44z Hello localhost [196.189.162.29])<EOL>250-PIPELINING<EOL>250-ENHANCEDSTATUSCODES<EOL>250-8BITMIME<EOL>250-SIZE 41697280<EOL>250 AUTH PLAIN LOGIN XOAUTH2 OAUTHBEARER<EOL>
+23/02/08 17:32:48 >> AUTH LOGIN<EOL>
+23/02/08 17:32:48 << 3
+23/02/08 17:32:48 << 34 VXNlcm5hbWU6<EOL>
+23/02/08 17:32:48 >> b3JvbW9iaWJsZXN0dWR5QHlhaG9vLmNvbQ==<EOL>
+23/02/08 17:32:48 << 3
+23/02/08 17:32:48 << 34 UGFzc3dvcmQ6<EOL>
+23/02/08 17:32:48 >> eXlobWJ0ZnBocWh2cmFzYw==<EOL>
+23/02/08 17:32:49 << 2
+23/02/08 17:32:49 << 35 2.7.0 Authentication successful<EOL>
+23/02/08 17:32:49 >> MAIL FROM: <oromobiblestudy@yahoo.com><EOL>
+23/02/08 17:32:50 << 2
+23/02/08 17:32:50 << 50 2.1.0 Sender <oromobiblestudy@yahoo.com> OK<EOL>
+23/02/08 17:32:50 >> RCPT TO: <jigsabersisa@gmail.com><EOL>
+23/02/08 17:32:50 << 2
+23/02/08 17:32:50 << 50 2.1.5 Recipient <jigsabersisa@gmail.com> OK<EOL>
+23/02/08 17:32:50 >> DATA<EOL>
+23/02/08 17:32:50 << 3
+23/02/08 17:32:50 << 54 Ok Send data ending with <CRLF>.<CRLF><EOL>
+23/02/08 17:32:50 >> Date: Wed, 8 Feb 2023 17:32:50 +0300<EOL>
+23/02/08 17:32:50 >> To: jigsabersisa@gmail.com<EOL>
+23/02/08 17:32:50 >> Subject: Password Reset Code<EOL>
+23/02/08 17:32:50 >> From: oromobiblestudy@yahoo.com<EOL>
+23/02/08 17:32:50 >> <EOL>
+23/02/08 17:32:50 >> Your password reset code is 792442<EOL>
+23/02/08 17:32:50 >> .<EOL>
+23/02/08 17:32:52 << 2
+23/02/08 17:32:52 << 50 OK , completed<EOL>
+23/02/08 17:32:52 >> QUIT<EOL>
+23/02/08 17:32:52 << 2
+23/02/08 17:32:52 << 21 Service Closing transmission<EOL>
+23/02/08 17:32:52 ** Disconnected.
+23/02/08 17:32:52 ** Disconnected.
+23/02/08 17:32:52 ** Disconnected.
+23/02/08 17:44:54 ** --- MESSAGE BEGIN ---
+23/02/08 17:44:54 ** To: muratanegessa6@gmail.com
+23/02/08 17:44:54 ** Subject: Password Reset Code
+23/02/08 17:44:54 ** From: oromobiblestudy@yahoo.com
+23/02/08 17:44:54 ** 
+23/02/08 17:44:54 ** Your password reset code is 681623
+23/02/08 17:44:54 ** --- MESSAGE END ---
+23/02/08 17:44:54 ** Connecting to smtp.mail.yahoo.com:587
+23/02/08 17:44:59 ** Connected.
+23/02/08 17:45:04 << 220 smtp.mail.yahoo.com ESMTP ready<EOL>
+23/02/08 17:45:04 >> EHLO localhost<EOL>
+23/02/08 17:45:12 << 250-hermes--production-gq1-655ddccc9-h558d Hello localhost [196.189.162.29])<EOL>250-PIPELINING<EOL>250-ENHANCEDSTATUSCODES<EOL>250-8BITMIME<EOL>250-SIZE 41697280<EOL>250 STARTTLS<EOL>
+23/02/08 17:45:12 ** Authenticating as oromobiblestudy@yahoo.com
+23/02/08 17:45:12 >> STARTTLS<EOL>
+23/02/08 17:45:20 << 220 2.0.0 Ready to start TLS<EOL>
+23/02/08 17:45:34 >> EHLO localhost<EOL>
+23/02/08 17:45:38 << 250-hermes--production-gq1-655ddccc9-h558d Hello localhost [196.189.162.29])<EOL>250-PIPELINING<EOL>250-ENHANCEDSTATUSCODES<EOL>250-8BITMIME<EOL>250-SIZE 41697280<EOL>250 AUTH PLAIN LOGIN XOAUTH2 OAUTHBEARER<EOL>
+23/02/08 17:45:38 >> AUTH LOGIN<EOL>
+23/02/08 17:45:42 << 3
+23/02/08 17:45:42 << 34 VXNlcm5hbWU6<EOL>
+23/02/08 17:45:42 >> b3JvbW9iaWJsZXN0dWR5QHlhaG9vLmNvbQ==<EOL>
+23/02/08 17:45:46 << 3
+23/02/08 17:45:46 << 34 UGFzc3dvcmQ6<EOL>
+23/02/08 17:45:46 >> eXlobWJ0ZnBocWh2cmFzYw==<EOL>
+23/02/08 17:45:51 << 2
+23/02/08 17:45:51 << 35 2.7.0 Authentication successful<EOL>
+23/02/08 17:45:51 >> MAIL FROM: <oromobiblestudy@yahoo.com><EOL>
+23/02/08 17:45:55 << 2
+23/02/08 17:45:55 << 50 2.1.0 Sender <oromobiblestudy@yahoo.com> OK<EOL>
+23/02/08 17:45:55 >> RCPT TO: <muratanegessa6@gmail.com><EOL>
+23/02/08 17:46:05 << 2
+23/02/08 17:46:05 << 50 2.1.5 Recipient <muratanegessa6@gmail.com> OK<EOL>
+23/02/08 17:46:05 >> DATA<EOL>
+23/02/08 17:46:12 << 3
+23/02/08 17:46:12 << 54 Ok Send data ending with <CRLF>.<CRLF><EOL>
+23/02/08 17:46:12 >> Date: Wed, 8 Feb 2023 17:46:12 +0300<EOL>
+23/02/08 17:46:12 >> To: muratanegessa6@gmail.com<EOL>
+23/02/08 17:46:12 >> Subject: Password Reset Code<EOL>
+23/02/08 17:46:12 >> From: oromobiblestudy@yahoo.com<EOL>
+23/02/08 17:46:12 >> <EOL>
+23/02/08 17:46:12 >> Your password reset code is 681623<EOL>
+23/02/08 17:46:12 >> .<EOL>
+23/02/08 17:46:24 << 2
+23/02/08 17:46:24 << 50 OK , completed<EOL>
+23/02/08 17:46:24 >> QUIT<EOL>
+23/02/08 17:46:28 << 2
+23/02/08 17:46:28 << 21 Service Closing transmission<EOL>
+23/02/08 17:46:28 ** Disconnected.
+23/02/08 17:46:28 ** Disconnected.
+23/02/08 17:46:28 ** Disconnected.
+23/02/08 19:49:40 ** --- MESSAGE BEGIN ---
+23/02/08 19:49:40 ** To: muratanegessa6@gmail.com
+23/02/08 19:49:40 ** Subject: Password Reset Code
+23/02/08 19:49:40 ** From: oromobiblestudy@yahoo.com
+23/02/08 19:49:40 ** 
+23/02/08 19:49:40 ** Your password reset code is 573406
+23/02/08 19:49:40 ** --- MESSAGE END ---
+23/02/08 19:49:40 ** Connecting to smtp.mail.yahoo.com:587
+23/02/08 19:49:41 ** Connected.
+23/02/08 19:49:41 << 220 smtp.mail.yahoo.com ESMTP ready<EOL>
+23/02/08 19:49:41 >> EHLO localhost<EOL>
+23/02/08 19:49:41 << 250-hermes--production-ir2-65c64dfd66-svnc4 Hello localhost [196.189.112.120])<EOL>250-PIPELINING<EOL>250-ENHANCEDSTATUSCODES<EOL>250-8BITMIME<EOL>250-SIZE 41697280<EOL>250 STARTTLS<EOL>
+23/02/08 19:49:41 ** Authenticating as oromobiblestudy@yahoo.com
+23/02/08 19:49:41 >> STARTTLS<EOL>
+23/02/08 19:49:41 << 220 2.0.0 Ready to start TLS<EOL>
+23/02/08 19:49:42 >> EHLO localhost<EOL>
+23/02/08 19:49:42 << 250-hermes--production-ir2-65c64dfd66-svnc4 Hello localhost [196.189.112.120])<EOL>250-PIPELINING<EOL>250-ENHANCEDSTATUSCODES<EOL>250-8BITMIME<EOL>250-SIZE 41697280<EOL>250 AUTH PLAIN LOGIN XOAUTH2 OAUTHBEARER<EOL>
+23/02/08 19:49:42 >> AUTH LOGIN<EOL>
+23/02/08 19:49:42 << 3
+23/02/08 19:49:42 << 34 VXNlcm5hbWU6<EOL>
+23/02/08 19:49:42 >> b3JvbW9iaWJsZXN0dWR5QHlhaG9vLmNvbQ==<EOL>
+23/02/08 19:49:42 << 3
+23/02/08 19:49:42 << 34 UGFzc3dvcmQ6<EOL>
+23/02/08 19:49:42 >> eXlobWJ0ZnBocWh2cmFzYw==<EOL>
+23/02/08 19:49:44 << 2
+23/02/08 19:49:44 << 35 2.7.0 Authentication successful<EOL>
+23/02/08 19:49:44 >> MAIL FROM: <oromobiblestudy@yahoo.com><EOL>
+23/02/08 19:49:44 << 2
+23/02/08 19:49:44 << 50 2.1.0 Sender <oromobiblestudy@yahoo.com> OK<EOL>
+23/02/08 19:49:44 >> RCPT TO: <muratanegessa6@gmail.com><EOL>
+23/02/08 19:49:44 << 2
+23/02/08 19:49:44 << 50 2.1.5 Recipient <muratanegessa6@gmail.com> OK<EOL>
+23/02/08 19:49:44 >> DATA<EOL>
+23/02/08 19:49:44 << 3
+23/02/08 19:49:44 << 54 Ok Send data ending with <CRLF>.<CRLF><EOL>
+23/02/08 19:49:44 >> Date: Wed, 8 Feb 2023 19:49:44 +0300<EOL>
+23/02/08 19:49:44 >> To: muratanegessa6@gmail.com<EOL>
+23/02/08 19:49:44 >> Subject: Password Reset Code<EOL>
+23/02/08 19:49:44 >> From: oromobiblestudy@yahoo.com<EOL>
+23/02/08 19:49:44 >> <EOL>
+23/02/08 19:49:44 >> Your password reset code is 573406<EOL>
+23/02/08 19:49:44 >> .<EOL>
+23/02/08 19:49:46 << 2
+23/02/08 19:49:46 << 50 OK , completed<EOL>
+23/02/08 19:49:46 >> QUIT<EOL>
+23/02/08 19:49:46 << 2
+23/02/08 19:49:46 << 21 Service Closing transmission<EOL>
+23/02/08 19:49:46 ** Disconnected.
+23/02/08 19:49:46 ** Disconnected.
+23/02/08 19:49:46 ** Disconnected.
+23/02/08 22:10:14 ** --- MESSAGE BEGIN ---
+23/02/08 22:10:14 ** To: shlelisa123@gmail.com
+23/02/08 22:10:14 ** Subject: Password Reset Code
+23/02/08 22:10:14 ** From: oromobiblestudy@yahoo.com
+23/02/08 22:10:14 ** 
+23/02/08 22:10:14 ** Your password reset code is 960178
+23/02/08 22:10:14 ** --- MESSAGE END ---
+23/02/08 22:10:14 ** Connecting to smtp.mail.yahoo.com:587
+23/02/08 22:10:22 ** Connected.
+23/02/08 22:10:22 << 220 smtp.mail.yahoo.com ESMTP ready<EOL>
+23/02/08 22:10:22 >> EHLO localhost<EOL>
+23/02/08 22:10:22 << 250-hermes--production-ir2-65c64dfd66-q2fgd Hello localhost [196.189.112.120])<EOL>250-PIPELINING<EOL>250-ENHANCEDSTATUSCODES<EOL>250-8BITMIME<EOL>250-SIZE 41697280<EOL>250 STARTTLS<EOL>
+23/02/08 22:10:22 ** Authenticating as oromobiblestudy@yahoo.com
+23/02/08 22:10:22 >> STARTTLS<EOL>
+23/02/08 22:10:23 << 220 2.0.0 Ready to start TLS<EOL>
+23/02/08 22:10:24 >> EHLO localhost<EOL>
+23/02/08 22:10:24 << 250-hermes--production-ir2-65c64dfd66-q2fgd Hello localhost [196.189.112.120])<EOL>250-PIPELINING<EOL>250-ENHANCEDSTATUSCODES<EOL>250-8BITMIME<EOL>250-SIZE 41697280<EOL>250 AUTH PLAIN LOGIN XOAUTH2 OAUTHBEARER<EOL>
+23/02/08 22:10:24 >> AUTH LOGIN<EOL>
+23/02/08 22:10:25 << 3
+23/02/08 22:10:25 << 34 VXNlcm5hbWU6<EOL>
+23/02/08 22:10:25 >> b3JvbW9iaWJsZXN0dWR5QHlhaG9vLmNvbQ==<EOL>
+23/02/08 22:10:25 << 3
+23/02/08 22:10:25 << 34 UGFzc3dvcmQ6<EOL>
+23/02/08 22:10:25 >> eXlobWJ0ZnBocWh2cmFzYw==<EOL>
+23/02/08 22:10:26 << 2
+23/02/08 22:10:26 << 35 2.7.0 Authentication successful<EOL>
+23/02/08 22:10:26 >> MAIL FROM: <oromobiblestudy@yahoo.com><EOL>
+23/02/08 22:10:26 << 2
+23/02/08 22:10:26 << 50 2.1.0 Sender <oromobiblestudy@yahoo.com> OK<EOL>
+23/02/08 22:10:26 >> RCPT TO: <shlelisa123@gmail.com><EOL>
+23/02/08 22:10:26 << 2
+23/02/08 22:10:26 << 50 2.1.5 Recipient <shlelisa123@gmail.com> OK<EOL>
+23/02/08 22:10:26 >> DATA<EOL>
+23/02/08 22:10:27 << 3
+23/02/08 22:10:27 << 54 Ok Send data ending with <CRLF>.<CRLF><EOL>
+23/02/08 22:10:27 >> Date: Wed, 8 Feb 2023 22:10:27 +0300<EOL>
+23/02/08 22:10:27 >> To: shlelisa123@gmail.com<EOL>
+23/02/08 22:10:27 >> Subject: Password Reset Code<EOL>
+23/02/08 22:10:27 >> From: oromobiblestudy@yahoo.com<EOL>
+23/02/08 22:10:27 >> <EOL>
+23/02/08 22:10:27 >> Your password reset code is 960178<EOL>
+23/02/08 22:10:27 >> .<EOL>
+23/02/08 22:10:28 << 2
+23/02/08 22:10:28 << 50 OK , completed<EOL>
+23/02/08 22:10:28 >> QUIT<EOL>
+23/02/08 22:10:28 << 2
+23/02/08 22:10:28 << 21 Service Closing transmission<EOL>
+23/02/08 22:10:28 ** Disconnected.
+23/02/08 22:10:28 ** Disconnected.
+23/02/08 22:10:28 ** Disconnected.
+23/02/11 16:19:17 ** --- MESSAGE BEGIN ---
+23/02/11 16:19:17 ** To: lelisa123sh@gmail.com
+23/02/11 16:19:17 ** Subject: Password Reset Code
+23/02/11 16:19:17 ** From: oromobiblestudy@yahoo.com
+23/02/11 16:19:17 ** 
+23/02/11 16:19:17 ** Your password reset code is 623969
+23/02/11 16:19:17 ** --- MESSAGE END ---
+23/02/11 16:19:17 ** Connecting to smtp.mail.yahoo.com:587
+23/02/11 16:19:17 ** Disconnected.
+23/02/11 16:19:17 ** Disconnected.
+23/02/11 16:19:17 ** Disconnected.
+23/02/11 16:19:17 ** Socket Error # 11001<EOL>Host not found.
+23/02/11 16:34:28 ** --- MESSAGE BEGIN ---
+23/02/11 16:34:28 ** To: lelisa123sh@gmail.com
+23/02/11 16:34:28 ** Subject: Password Reset Code
+23/02/11 16:34:28 ** From: oromobiblestudy@yahoo.com
+23/02/11 16:34:28 ** 
+23/02/11 16:34:28 ** Your password reset code is 689892
+23/02/11 16:34:28 ** --- MESSAGE END ---
+23/02/11 16:34:28 ** Connecting to smtp.mail.yahoo.com:587
+23/02/11 16:34:29 ** Connected.
+23/02/11 16:34:29 << 220 smtp.mail.yahoo.com ESMTP ready<EOL>
+23/02/11 16:34:29 >> EHLO localhost<EOL>
+23/02/11 16:34:29 << 250-hermes--production-ir2-65c64dfd66-q2fgd Hello localhost [138.199.7.227])<EOL>250-PIPELINING<EOL>250-ENHANCEDSTATUSCODES<EOL>250-8BITMIME<EOL>250-SIZE 41697280<EOL>250 STARTTLS<EOL>
+23/02/11 16:34:29 ** Authenticating as oromobiblestudy@yahoo.com
+23/02/11 16:34:29 >> STARTTLS<EOL>
+23/02/11 16:34:29 << 220 2.0.0 Ready to start TLS<EOL>
+23/02/11 16:34:30 >> EHLO localhost<EOL>
+23/02/11 16:34:30 << 250-hermes--production-ir2-65c64dfd66-q2fgd Hello localhost [138.199.7.227])<EOL>250-PIPELINING<EOL>250-ENHANCEDSTATUSCODES<EOL>250-8BITMIME<EOL>250-SIZE 41697280<EOL>250 AUTH PLAIN LOGIN XOAUTH2 OAUTHBEARER<EOL>
+23/02/11 16:34:30 >> AUTH LOGIN<EOL>
+23/02/11 16:34:30 << 3
+23/02/11 16:34:30 << 34 VXNlcm5hbWU6<EOL>
+23/02/11 16:34:30 >> b3JvbW9iaWJsZXN0dWR5QHlhaG9vLmNvbQ==<EOL>
+23/02/11 16:34:30 << 3
+23/02/11 16:34:30 << 34 UGFzc3dvcmQ6<EOL>
+23/02/11 16:34:30 >> eXlobWJ0ZnBocWh2cmFzYw==<EOL>
+23/02/11 16:34:32 << 2
+23/02/11 16:34:32 << 35 2.7.0 Authentication successful<EOL>
+23/02/11 16:34:32 >> MAIL FROM: <oromobiblestudy@yahoo.com><EOL>
+23/02/11 16:34:32 << 2
+23/02/11 16:34:32 << 50 2.1.0 Sender <oromobiblestudy@yahoo.com> OK<EOL>
+23/02/11 16:34:32 >> RCPT TO: <lelisa123sh@gmail.com><EOL>
+23/02/11 16:34:32 << 2
+23/02/11 16:34:32 << 50 2.1.5 Recipient <lelisa123sh@gmail.com> OK<EOL>
+23/02/11 16:34:32 >> DATA<EOL>
+23/02/11 16:34:32 << 3
+23/02/11 16:34:32 << 54 Ok Send data ending with <CRLF>.<CRLF><EOL>
+23/02/11 16:34:32 >> Date: Sat, 11 Feb 2023 16:34:32 +0300<EOL>
+23/02/11 16:34:32 >> To: lelisa123sh@gmail.com<EOL>
+23/02/11 16:34:32 >> Subject: Password Reset Code<EOL>
+23/02/11 16:34:32 >> From: oromobiblestudy@yahoo.com<EOL>
+23/02/11 16:34:32 >> <EOL>
+23/02/11 16:34:32 >> Your password reset code is 689892<EOL>
+23/02/11 16:34:32 >> .<EOL>
+23/02/11 16:34:34 << 2
+23/02/11 16:34:34 << 50 OK , completed<EOL>
+23/02/11 16:34:34 >> QUIT<EOL>
+23/02/11 16:34:34 << 2
+23/02/11 16:34:34 << 21 Service Closing transmission<EOL>
+23/02/11 16:34:34 ** Disconnected.
+23/02/11 16:34:34 ** Disconnected.
+23/02/11 16:34:34 ** Disconnected.
+23/02/21 23:15:01 ** --- MESSAGE BEGIN ---
+23/02/21 23:15:01 ** To: muratanegessa6@gmail.com
+23/02/21 23:15:01 ** Subject: Password Reset Code
+23/02/21 23:15:01 ** From: oromobiblestudy@yahoo.com
+23/02/21 23:15:01 ** 
+23/02/21 23:15:01 ** Your password reset code is 846718
+23/02/21 23:15:01 ** --- MESSAGE END ---
+23/02/21 23:15:01 ** Connecting to smtp.mail.yahoo.com:587
+23/02/21 23:15:01 ** Disconnected.
+23/02/21 23:15:01 ** Disconnected.
+23/02/21 23:15:01 ** Disconnected.
+23/02/21 23:15:01 ** Socket Error # 11001<EOL>Host not found.
+23/02/21 23:15:09 ** --- MESSAGE BEGIN ---
+23/02/21 23:15:09 ** To: muratanegessa6@gmail.com
+23/02/21 23:15:09 ** Subject: Password Reset Code
+23/02/21 23:15:09 ** From: oromobiblestudy@yahoo.com
+23/02/21 23:15:09 ** 
+23/02/21 23:15:09 ** Your password reset code is 419865
+23/02/21 23:15:09 ** --- MESSAGE END ---
+23/02/21 23:15:09 ** Connecting to smtp.mail.yahoo.com:587
+23/02/21 23:15:09 ** Disconnected.
+23/02/21 23:15:09 ** Disconnected.
+23/02/21 23:15:09 ** Disconnected.
+23/02/21 23:15:09 ** Socket Error # 11001<EOL>Host not found.
+23/02/21 23:15:10 ** --- MESSAGE BEGIN ---
+23/02/21 23:15:10 ** To: muratanegessa6@gmail.com
+23/02/21 23:15:10 ** Subject: Password Reset Code
+23/02/21 23:15:10 ** From: oromobiblestudy@yahoo.com
+23/02/21 23:15:10 ** 
+23/02/21 23:15:10 ** Your password reset code is 164694
+23/02/21 23:15:10 ** --- MESSAGE END ---
+23/02/21 23:15:10 ** Connecting to smtp.mail.yahoo.com:587
+23/02/21 23:15:10 ** Disconnected.
+23/02/21 23:15:10 ** Disconnected.
+23/02/21 23:15:10 ** Disconnected.
+23/02/21 23:15:10 ** Socket Error # 11001<EOL>Host not found.
+23/02/21 23:15:12 ** --- MESSAGE BEGIN ---
+23/02/21 23:15:12 ** To: muratanegessa6@gmail.com
+23/02/21 23:15:12 ** Subject: Password Reset Code
+23/02/21 23:15:12 ** From: oromobiblestudy@yahoo.com
+23/02/21 23:15:12 ** 
+23/02/21 23:15:12 ** Your password reset code is 331518
+23/02/21 23:15:12 ** --- MESSAGE END ---
+23/02/21 23:15:13 ** Connecting to smtp.mail.yahoo.com:587
+23/02/21 23:15:13 ** Disconnected.
+23/02/21 23:15:13 ** Disconnected.
+23/02/21 23:15:13 ** Disconnected.
+23/02/21 23:15:13 ** Socket Error # 11001<EOL>Host not found.
+23/02/21 23:29:50 ** --- MESSAGE BEGIN ---
+23/02/21 23:29:50 ** To: muratanegessa6@gmail.com
+23/02/21 23:29:50 ** Subject: Password Reset Code
+23/02/21 23:29:50 ** From: oromobiblestudy@yahoo.com
+23/02/21 23:29:50 ** 
+23/02/21 23:29:50 ** Your password reset code is 969355
+23/02/21 23:29:50 ** --- MESSAGE END ---
+23/02/21 23:29:50 ** Connecting to smtp.mail.yahoo.com:587
+23/02/21 23:29:50 ** Disconnected.
+23/02/21 23:29:50 ** Disconnected.
+23/02/21 23:29:50 ** Disconnected.
+23/02/21 23:29:50 ** Socket Error # 11001<EOL>Host not found.
